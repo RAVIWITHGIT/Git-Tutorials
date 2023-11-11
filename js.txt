@@ -1,1 +1,1 @@
-this is js file for my index.txt
+this is js file for my index.txt ddd
